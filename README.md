@@ -41,6 +41,8 @@ ClassNav AI connects student schedules with campus room information to make clas
 ## Live Demo
 
 **PartyRock Project:** [https://partyrock.aws/u/kaiansh/MBHsFHlS7koO/ClassNav-AI-Campus-Classroom-Finder]
+<img width="474" height="481" alt="Scan ME QR" src="https://github.com/user-attachments/assets/75440a91-3199-43d7-88de-78ded966ca12" />
+
 
 ## Project Workflow
 
@@ -66,7 +68,9 @@ A proposed production version could use Amazon Bedrock, AWS Lambda, Amazon API G
 
 ## Project Screenshots
 
-Add screenshots of the working PartyRock Flow here.
+<img width="720" height="1600" alt="Screenshot 1" src="https://github.com/user-attachments/assets/4d30a7cd-3241-4934-bead-e42ff2896530" />
+<img width="720" height="1600" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c75cffde-128d-497e-8de7-0c5f9bff999f" />
+
 
 ## Hackathon Submission
 
