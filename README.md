@@ -40,7 +40,7 @@ ClassNav AI connects student schedules with campus room information to make clas
 
 ## Live Demo
 
-**PartyRock Project:** [Insert your public PartyRock link]
+**PartyRock Project:** [https://partyrock.aws/u/kaiansh/MBHsFHlS7koO/ClassNav-AI-Campus-Classroom-Finder]
 
 ## Project Workflow
 
